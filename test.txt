@@ -1,1 +1,2 @@
 This is test.
+after revert line will be lost.
